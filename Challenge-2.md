@@ -156,10 +156,6 @@ When your Agent Mode implementation is complete, running the application should 
 
 ### Agent Mode Tips
 
-<a href="#">
-    <img src="../../../Images/agent-mode-tips.jpg"  style="width: 830px" />
-</a>
-
 #### Effective Prompting Strategies
 
 1. **Be Comprehensive**: Give Agent Mode the full context and all requirements upfront
@@ -197,9 +193,7 @@ If Agent Mode isn't working:
 
 After trying out Agent Mode with this adventure:
 
-1. Try the **Advanced adventures** using Agent Mode for more complex scenarios
-2. Experiment with **custom tools and extensions** that integrate with Agent Mode
-3. Use Agent Mode for **real projects** - it excels at creating complete applications
-4. Share your experience and **provide feedback** to help improve Agent Mode
+1. Try the **Copilot Instructions** and **Prompt Files** features to enhance your workflow
+2. Experiment with **custom agents** for specialized tasks
+3. Share your experience and **provide feedback** to help improve further.
 
-Remember: Agent Mode is your autonomous coding partner. Give it clear goals, let it work, and iterate together to build amazing software!
