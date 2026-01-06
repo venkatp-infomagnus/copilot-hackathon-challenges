@@ -15,7 +15,7 @@
 
 
 <a href="#">
-    <img src="Images/kids-learning.jpg"  style="width: 830px" />
+    <img src="../../Images/kids-learning.jpg"  style="width: 830px" />
 </a>
 ## Overview
 This challenge demonstrates building a simple web application using Node.js, Express, and EJS template engine. The app will be an educational platform for kids to learn various topics.

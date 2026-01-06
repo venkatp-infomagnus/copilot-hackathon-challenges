@@ -100,19 +100,19 @@ Run:
 The challenges can be categized into several core functions of Github Copilot, which you can consider to choose, which are most effective for your individual learning experience:
 
 ### Focus areas Clocks of Tempora
-![Focus areas Clocks of Tempora](Images/tempora-clocks.jpg)
+![Focus areas Clocks of Tempora](./Images/tempora-clocks.jpg)
 ### The Scrolls of Eldoria
-![The Scrolls of Eldoria](Images/eldoria.jpg)
+![The Scrolls of Eldoria](./Images/eldoria.jpg)
 ### API Development and CRUD Operations
-![API Development and CRUD Operations](Images/focus-challenge-3.png)
+![API Development and CRUD Operations](./Images/focus-challenge-3.png)
 ### Convert powershellscript to bash
-![Convert powershellscript to bash](Images/focus-challenge-4.png)
+![Convert powershellscript to bash](./Images/focus-challenge-4.png)
 
 ### Build Your Own AI-Powered Project
-![Build Your Own AI-Powered Project](Images/focus-challenge-5.png)
+![Build Your Own AI-Powered Project](./Images/focus-challenge-5.png)
 
 ### Kids Learning App – Basic App Creation
-![Kids Learning App – Basic App Creation](Images/kids-learning.jpg)
+![Kids Learning App – Basic App Creation](./Images/kids-learning.jpg)
 
 ## Quick Links 
 

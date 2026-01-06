@@ -10,7 +10,7 @@
 - **STEP 6: Custom Agents:** Documentation Specialist Agent – Responsible for creating and updating README files or other project documentation, ensuring consistent structure and formatting.
 
 <a href="#">
-    <img src="Images/eldoria.jpg" style="width: 830px" />
+    <img src="../../Images/eldoria.jpg" style="width: 830px" />
 </a>
 
 ### Background
