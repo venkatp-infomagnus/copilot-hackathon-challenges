@@ -87,26 +87,32 @@ Run:
 - [Install cmake](https://cmake.org/download/)
 
 
+
 ## Challenges instructions
 
-- [Clocks of Tempora](./Challenge-1.md) 
+- [Clocks of Tempora](./Challenge-1.md)
 - [The Scrolls of Eldoria](./Challenge-2.md)
 - [API Development and CRUD Operations](./Challenge-3.md)
 - [Convert powershellscript to bash](./Challenge-4.md)
 - [Build Your Own AI-Powered Project](Challenge-5.md)
+- [Kids Learning App – Basic App Creation](challenge-6.md)
 
 The challenges can be categized into several core functions of Github Copilot, which you can consider to choose, which are most effective for your individual learning experience:
 
 ### Focus areas Clocks of Tempora
-![Focus areas Clocks of Tempora](Images/focus-challenge-1.png)
+![Focus areas Clocks of Tempora](Images/tempora-clocks.jpg)
 ### The Scrolls of Eldoria
-![The Scrolls of Eldoria](Images/focus-challenge-2.png)
+![The Scrolls of Eldoria](Images/eldoria.jpg)
 ### API Development and CRUD Operations
 ![API Development and CRUD Operations](Images/focus-challenge-3.png)
 ### Convert powershellscript to bash
 ![Convert powershellscript to bash](Images/focus-challenge-4.png)
+
 ### Build Your Own AI-Powered Project
 ![Build Your Own AI-Powered Project](Images/focus-challenge-5.png)
+
+### Kids Learning App – Basic App Creation
+(No image available)
 
 ## Quick Links 
 
