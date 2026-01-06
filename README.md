@@ -90,12 +90,12 @@ Run:
 
 ## Challenges instructions
 
-- [Clocks of Tempora](./Challenge-1.md)
-- [The Scrolls of Eldoria](./Challenge-2.md)
-- [API Development and CRUD Operations](./Challenge-3.md)
-- [Convert powershellscript to bash](./Challenge-4.md)
-- [Build Your Own AI-Powered Project](Challenge-5.md)
-- [Kids Learning App – Basic App Creation](challenge-6.md)
+- [Clocks of Tempora](challenges/ClockTown/The-Clockwork-Town-of-Tempora.md)
+- [The Scrolls of Eldoria](challenges/ScrollsOfEldoria/The%20Scrolls%20of%20Eldoria.md)
+- [API Development and CRUD Operations](challenges/API%20Development.md)
+- [Convert powershellscript to bash](challenges/powershell-to-bash-crc32.md)
+- [Build Your Own AI-Powered Project](challenges/eshop/eshop.md)
+- [Kids Learning App – Basic App Creation](challenges/KidsLearning/Kids%20Learning%20App.md)
 
 The challenges can be categized into several core functions of Github Copilot, which you can consider to choose, which are most effective for your individual learning experience:
 
