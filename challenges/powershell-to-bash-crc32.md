@@ -10,7 +10,7 @@
 
 ## 2. If a folder does not exist for this Challenge, create one
 
-e.g. challenge-4
+e.g. crc32-conversion
 
 ## 3. Create new .ps1 file
 
@@ -45,11 +45,11 @@ please change the used model back to GPT 4o
 - In order to run this, in case you're running on Windows, please make sure you have a working WSL subsystem.
 - Set execute permissions for the Bash script:
   ```bash
-  chmod +x <path to challenge-4 directory>/start.sh
+  chmod +x <path to crc32-conversion directory>/start.sh
   ```
 - Run the script:
   ```bash
-  <path to challenge-4 directory>/start.sh
+  <path to crc32-conversion directory>/start.sh
   ```
 ## 10. Verify the Checksum
 
