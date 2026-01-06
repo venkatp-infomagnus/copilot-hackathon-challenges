@@ -13,6 +13,10 @@
 - **STEP 5: Prompt Files:** Create targeted, reusable prompts for specific activities like code generation or conducting code reviews.
 - **STEP 6: Custom Agents:** Documentation Specialist Agent – Responsible for creating and updating README files or other project documentation, ensuring consistent structure and formatting.
 
+
+<a href="#">
+    <img src="Images/kids-learning.jpg"  style="width: 830px" />
+</a>
 ## Overview
 This challenge demonstrates building a simple web application using Node.js, Express, and EJS template engine. The app will be an educational platform for kids to learn various topics.
 

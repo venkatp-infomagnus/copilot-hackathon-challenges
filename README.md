@@ -112,7 +112,7 @@ The challenges can be categized into several core functions of Github Copilot, w
 ![Build Your Own AI-Powered Project](Images/focus-challenge-5.png)
 
 ### Kids Learning App – Basic App Creation
-(No image available)
+![Kids Learning App – Basic App Creation](Images/kids-learning.jpg)
 
 ## Quick Links 
 
