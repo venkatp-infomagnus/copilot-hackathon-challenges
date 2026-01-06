@@ -2,6 +2,15 @@
 
 > **Note:** You can use any programming language you're comfortable with for this challenge. The following Java-based instructions are just for illustration. Feel free to adapt the setup and implementation steps according to your chosen technology stack.
 
+**Workflow Steps:**
+
+- **STEP 1: Plan:** Use Plan Mode to create a strategy before coding. Review and finalize a high-level plan, and start implementation only after approval.
+- **STEP 2: Code:** Transition to Agent Mode. Once the plan is approved, implement the code according to the approved plan.
+- **STEP 3: Test:** Test the application to ensure all features work as expected.
+- **STEP 4: Generate Chat Instructions:** Create a rulebook of custom Copilot instructions to ensure consistency, enforce best practices and coding standards, and minimize AI hallucinations in future challenges.
+- **STEP 5: Prompt Files:** Create targeted, reusable prompts for specific activities like code generation or conducting code reviews.
+- **STEP 6: Custom Agents:** Documentation Specialist Agent – Responsible for creating and updating README files or other project documentation, ensuring consistent structure and formatting.
+
 ## Setup Steps
 
 ### 1. Setup Your Development Environment
