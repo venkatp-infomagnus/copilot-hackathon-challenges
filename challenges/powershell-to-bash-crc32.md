@@ -1,5 +1,13 @@
 # Challenge 4 – Convert powershellscript to bash
 
+### Background
+
+This challenge focuses on cross-platform scripting and AI-assisted development. You will convert a PowerShell script that calculates the CRC32 checksum of a file into an equivalent Bash script, without using built-in CRC utilities. The goal is to leverage GitHub Copilot to assist in both script creation and troubleshooting, ensuring both scripts produce the correct checksum for a given file.
+
+### Objective
+
+Create a PowerShell script and a Bash script that both calculate the CRC32 checksum for a given file (e.g., azure-overview.png), using GitHub Copilot for assistance. Ensure both scripts return the correct checksum (EBAFCEAD) and do not use built-in CRC utilities. Practice using Copilot to generate, debug, and refine your code across platforms.
+
 ## 1. Setup Your Development Environment
 
 ### Setup vscode with powershell extension:

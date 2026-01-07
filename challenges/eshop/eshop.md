@@ -1,13 +1,13 @@
 # DEVELOP A SHOPPING CART
 
-**Workflow Steps:**
+**Topics to be used:**
 
-- **STEP 1: Plan:** Use Plan Mode to create a better strategy before coding. Review and finalize a high-level plan, and start implementation only after approval. 
-- **STEP 2: Code:** Transition to Agent Mode. Once the plan is approved, implement the code according to the approved plan.
-- **STEP 3: Test:** Test the application to ensure all features work as expected.
-- **STEP 4: Generate Chat Instructions:** Create a rulebook of custom Copilot instructions to ensure consistency, enforce best practices and coding standards, and minimize AI hallucinations in future challenges.
-- **STEP 5: Prompt Files:** Create targeted, reusable prompts for specific activities like code generation or conducting code reviews.
-- **STEP 6: Custom Agents:** Documentation Specialist Agent – Responsible for creating and updating README files or other project documentation, ensuring consistent structure and formatting.
+- **Topic 1: Plan:** Use Plan Mode to create a better strategy before coding. Review and finalize a high-level plan, and start implementation only after approval. 
+- **Topic 2: Code:** Transition to Agent Mode. Once the plan is approved, implement the code according to the approved plan.
+- **Topic 3: Test:** Test the application to ensure all features work as expected.
+- **Topic 4: Generate Chat Instructions:** Create a rulebook of custom Copilot instructions to ensure consistency, enforce best practices and coding standards, and minimize AI hallucinations in future challenges.
+- **Topic 5: Prompt Files:** Create targeted, reusable prompts for specific activities like code generation or conducting code reviews.
+- **Topic 6: Custom Agents:** Documentation Specialist Agent – Responsible for creating and updating README files or other project documentation, ensuring consistent structure and formatting.
 
 ## Objective
 
